@@ -10,9 +10,11 @@
 
 ## 2. Mulligans
 
-- ***Why?** speed them up, smoothing (reduce one-sided games, flood/screw)*
+*To increase smoothing: (reduce one-sided games, flood/screw)*
 
-- **a) 'London-8':** always draw 8, tuck 1 if don't mull, 2 if mull once, etc. You end up with 7/6/5, always see 8.
+- **a) 'London-8':** always draw 8, tuck 1 if you don't mulligan, 2 if you mulligan once, etc. (You end up with 7/6/5, always see 8.)
+
+*To speed up mulligans:*
 
 - **b) Shuffle after mulliganing is over:** set aside mulled hand, draw fresh one right away. When got a hand you'll keep, then shuffle (this speeds things up).
 
@@ -43,7 +45,7 @@
 
 <br>
 
-Mulligan Xtra 8?
+Mulligan Xtra 8? --> is that skip first draw? prefer that to above!!
 
 - ***Auras with etbs?!?***
 
